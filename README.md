@@ -16,3 +16,4 @@ En este repositorio se albergan los materiales didácticos, las investigaciones 
 
 ### 🔴Videos youtube
 
+### ℹ️Infografías
